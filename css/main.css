@@ -569,8 +569,11 @@ margin-bottom: 35px;
 }
 
 .h2-background-three {
-    left: 25%;
     top: 56%;
+}
+
+.h2-background-five {
+    left: 25%;
 }
 
 .video-comments {
